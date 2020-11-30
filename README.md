@@ -1,1 +1,1 @@
-# Portifólio de Códigis em R.
+# Portifólio de Códigos em R.
